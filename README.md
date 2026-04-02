@@ -33,4 +33,4 @@ Repositório com writeups detalhados das rooms que completei no TryHackMe. Cada 
 
 ---
 
-**Autor:** Mateus Camara Dias — Estudante de Cibersegurança | Hackers do Bem — SENAI
+**Autor:** Mateus Camara Dias — Estudante de Cibersegurança SENAC | Hackers do Bem — SENAI
